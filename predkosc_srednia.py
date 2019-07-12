@@ -1,3 +1,4 @@
+# noinspection PyInterpreter
 print("Program liczy średną predkosć pociągu z punktu A do punktu B, na wejściu pobiera liczbę testów, "
       "następnie pobiera dwie wartosći ")
 print("Podaj liczbę testów: ")
